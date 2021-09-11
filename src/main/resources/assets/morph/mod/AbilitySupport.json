@@ -2194,5 +2194,17 @@
     "hostile",
 	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
     "sunburn"
+  ],
+  "cofh.thermalfoundation.entity.monster.EntityBlitz": [
+    "hostile",
+    "fly|false"
+  ],
+  "cofh.thermalfoundation.entity.monster.EntityBasalz": [
+    "hostile",
+    "fly|false"
+  ],
+  "cofh.thermalfoundation.entity.monster.EntityBlizz": [
+    "hostile",
+    "fly|false"
   ]
 }
